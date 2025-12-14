@@ -54,7 +54,7 @@ section#login {
 
 section#login>div#imagem {
     display: block;
-    background: #5f2c82 url(../imagens/teclado.jpg) no-repeat;
+    background: #FAFAFA url(../imagens/teclado.jpg) no-repeat;
     background-size: cover;
     background-position: left bottom;
     height: 200px;
@@ -72,4 +72,14 @@ div#formulario>h1 {
 
 div#formulario>p {
     font-size: 0.8em;
+}
+
+img#senha-icon{
+    width: 20px;
+    height: 20px;
+}
+
+img#email-icon{
+    width: 20px;
+    height: 20px;
 }
